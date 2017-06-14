@@ -27,3 +27,5 @@ Are you interested in helping contribute to SR Creation?  Email **shardrealms@gm
 Want to make a suggestion or report a bug?  [Open an issue](https://github.com/rhyeen/sr_creation/issues) with the details, and we'll be sure to look into it.
 
 ## Setup
+
+It is recommended that you run the Front-end, Server-side, and Database (see **Usage**) independently and under the recommended setup instructions found on each of those repos.  All three must be running concurrently for the application to function as intended.  See the individual repo's base README for more information on setup.
