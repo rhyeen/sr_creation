@@ -29,3 +29,7 @@ Want to make a suggestion or report a bug?  [Open an issue](https://github.com/r
 ## Setup
 
 It is recommended that you run the Front-end, Server-side, and Database (see **Usage**) independently and under the recommended setup instructions found on each of those repos.  All three must be running concurrently for the application to function as intended.  See the individual repo's base README for more information on setup.
+
+## Demo
+
+If you'd like to see a demo of how to set up the application and a run-down of its current features, you can watch the [YouTube demo](https://youtu.be/0tJnEDzELZE).
