@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Shardrealms Creation App, or SR Creation, is an Angular, Node.js, and MySQL web application for keeping track of complex relationships of elements within a dynamic story.  In layman's terms, it's an application RPG game masters to better keeping track of their campaign stories.
+The Shardrealms Creation App, or SR Creation, is an Angular, Node.js, and MySQL web application for keeping track of complex relationships of elements within a dynamic story.  In layman's terms, it's an application RPG game master can use to better keeping track of their campaign stories.
 
 If you want to learn more about the vision of SR Creation, and the roadmap of development, you can read the [SR Creation Trajectory documentation](https://docs.google.com/document/d/1PA-q3xuqiZ23GHVwhrXzh8W-luoWdYA5hnjD1i4PKU0/edit?usp=sharing).
 
