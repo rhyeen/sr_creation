@@ -14,7 +14,7 @@ SR Creation can also be setup on a local server.  Follow the setup instruction b
 
 To access the individual github repos of each component, visit any of the links below:
 
-* [Front-end (Angular)](https://github.com/rhyeen/sr_creation_app)
+* [Front-end (Polymer/Web Components)](https://github.com/rhyeen/sr_creation_wc)
 * [Server-side (Node.js)](https://github.com/rhyeen/sr_creation_ng2)
 * [Database (Dockerized MySQL)](https://github.com/rhyeen/sr_creation_db)
 
